@@ -65,6 +65,13 @@ echo $nati -> falar();
 echo $sarah -> falar();
 echo $nicole -> falar();
 echo $nicolly -> falar();
+echo $enzo -> falar();
+echo $joana -> falar();
+echo $roberta -> falar();
+echo $isa -> falar();
+echo $edi -> falar();
+echo $ari -> falar();
+echo $fabi -> falar();
 
 
 ?>
